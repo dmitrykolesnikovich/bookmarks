@@ -46,6 +46,8 @@
 
 Playlist
 
+|#|Reference|Title|
+|----|----|----|
 | 1     | https://www.youtube.com/playlist?list=PLpXOY-RxVRTMx2C245SHOzo-OgeF7zSzh  | Computer Graphics                             |
 | 2     | https://www.youtube.com/playlist?list=PLysLvOneEETPlOI_PI4mJnocqIpr2cSHS  | C++ OpenGL Tutorial                           |
 | 3     | https://www.youtube.com/playlist?list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-  | OpenGL Tutorials                              |
