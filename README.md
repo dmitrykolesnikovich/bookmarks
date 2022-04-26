@@ -1,3 +1,4 @@
+|--- |--- |--- |
 | 1     | https://www.youtube.com/c/1MaFX                           | tutorials and 3D / VFX assets                                 |
 | 2     | https://www.youtube.com/c/2etime                          | game engine series using Metal                                |
 | 3     | https://www.youtube.com/user/ACMSIGGRAPH                  | Computer Graphics                                             |
